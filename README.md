@@ -6,3 +6,5 @@
 * **[lighttpd](https://github.com/h5bp/server-configs-lighttpd)**
 * **[Nginx](https://github.com/h5bp/server-configs-nginx)**
 * **[Node.js](https://github.com/h5bp/server-configs-node)**
+
+* 用于配置http压缩的服务器配置
